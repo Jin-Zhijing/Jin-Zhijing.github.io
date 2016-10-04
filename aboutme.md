@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Jin, an Unbounded Creative with Great Passion for Life
+subtitle: Jin, an Unbounded Creative with Passion
 ---
 
 
