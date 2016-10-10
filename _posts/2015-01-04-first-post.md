@@ -1,7 +1,33 @@
 ---
 layout: post
 title: First post!
-tags: [random, exciting-stuff]
+tags: [dream, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+This is my outline of life.  
+**Start Point**: Forever Love for Life, along with Boundless Learning
+
+## Revolutionize the Society in the Way People Look at the World & their Life Moments [Mindset Revolution]
+
+* Breaking up             : growth of both
+* Another Talent          : appreciation, share the sparkles of thoughts, thank (Zhuang Zi and Hui Zi)
+* Bias (Tagging people)   : never categorize, everyone is a mistery
+* Memories                : inspiring way of organizing albums, appropriate refreshing = enlightenmeng ('Inside Out')
+
+Kindle/Lit your life.
+
+### Methodology: $ + Experience + Fellowship
+
+Work for Google     |   professional consultant/lecturer
+
+↓ Finally - social enterprise
+
+### Get Armed
+
+- Languages
+- CS
+- liberal arts
+  + Comp Lit
+- Religions
+
+To be Continued.
