@@ -16,18 +16,18 @@ This is my outline of life.
 
 Kindle/Lit your life.
 
-### Methodology: $ + Experience + Fellowship
+### [Methodology: $ + Experience + Fellowship]
 
-Work for Google     |   professional consultant/lecturer
+Work for Google     |   Professional consultant/lecturer
 
 ↓ Finally - social enterprise
 
-### Get Armed
+### [Getting Armed]
 
 - Languages
 - CS
-- liberal arts
+- Liberal arts
   + Comp Lit
 - Religions
 
-To be Continued.
+To Be Continued.
