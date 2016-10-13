@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "aboutme"
+url: "https://jin-zhijing.github.io/aboutme/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -177,8 +177,8 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-#gems:
-#  - jekyll-paginate
+gems:
+  - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
