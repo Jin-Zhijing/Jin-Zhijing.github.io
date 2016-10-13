@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: About JIN
 subtitle: Jin, an Unbounded Creative with Passion
 ---
 
@@ -12,12 +12,13 @@ I am a passionate creative with **a great love of life**. I believe in the power
 
 | Fields | Skills/Talents |  
 | ------ | ----------- |  
-| Language | Proficient English, Mandarin, Cantonese, Shanghainese. <br>Basic Japanese, German. |  
+| Languages | Proficient English, Mandarin, Cantonese, Shanghainese. <br>Basic Japanese, German. |  
 | Computer Science | C++, Shell Script, Javascript, etc. |  
 | Presentation | Eloquence of speech, with effective communication skills. |  
 | Visual Design | Photoshop, MS packages, Prezi, etc. |  
 
 [With enthusiasm, I master a range of interdisciplinary skills. Instead of centring around profits and competition, I keep to a simple and boyish appreciation of life itself. My ideas have deep roots in traditional oriental art and philosophies, and the Taoism value of naturalness, a perfect state without the imprint of culture. My boundless interest in: ......helps me **to better express, to connect, to understand, to challenge, and to make changes in the world. //Through combination of ideas and skills, I wish to spread my thoughts effectively and to rouse people's thinking of how to live and why to live.**]: # ( This is a good paragraph describing my framework of life. )
+
 
 ---
 
