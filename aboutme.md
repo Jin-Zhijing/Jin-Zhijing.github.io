@@ -13,12 +13,12 @@ With enthusiasm, I master a range of interdisciplinary skills. Instead of centri
 * Applied Programming  
 * Eloquence of Speech  
 * Multi-lingual Ability  
-| Fields | Skills/Talents |
-| ------ | ----------- |
-| Language | Proficient English, Mandarin, Cantonese, Shanghainese. Basic Japanese, German. |
-| Computer Science | C++, Shell Script, Javascript. |
-| Presentation | Eloquence of speech. |
-| Visual Design | Photoshop, MS packages. |
+| Fields | Skills/Talents |  
+| ------ | ----------- |  
+| Language | Proficient English, Mandarin, Cantonese, Shanghainese. Basic Japanese, German. |  
+| Computer Science | C++, Shell Script, Javascript. |  
+| Presentation | Eloquence of speech. |  
+| Visual Design | Photoshop, MS packages. |  
 helps me **to better express, to connect, to understand, to challenge, and to make changes in the world.**
 
 Through combination of ideas and skills, I wish to spread my thoughts effectively and to rouse people's thinking of how to live and why to live.
