@@ -14,10 +14,19 @@ subtitle: A gallery of fantastic posters designed by JIN.
 * 2-Sided poster for a Designer Salon Event:
 
 Front Design for the event
-![Event_DesignSalon1](/img/人-2.png) 
+<table style="width:100%">
+  <tr>
+    <th><img src="/img/人-2.png"></th>
+  </tr>
+</table>
 
 Back Design for the event
-![Event_DesignSalon2](/img/DesignSalon.png)
+
+<table style="width:100%">
+  <tr>
+    <th><img src="/img/DesignSalon.png"></th>
+  </tr>
+</table>
 <br>
 
 * T-Shirt design for a student society, [Debating Society, H.K.U.S.U.](https://zh-hk.facebook.com/DebatingSocietyHkusu/):
@@ -32,11 +41,15 @@ Back Design for the event
     <td><img src="/img/T-shirt(back) of Debating Society.png" width="400"></td> 
   </tr>
 </table>
-<br>
+
 
 * Membership card design for [Debating Society, H.K.U.S.U.](https://zh-hk.facebook.com/DebatingSocietyHkusu/):
 
-<img src="/img/Membership Card Design.png" width="400">
+<table style="width:40%">
+  <tr>
+    <th><img src="/img/Membership Card Design.png"></th>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -45,12 +58,15 @@ Back Design for the event
 <br>
 * A poster reflecting Japanese culture:
 
-![ProJapan](/img/Japan.png)
-
+<table style="width:40%">
+  <tr>
+    <th><img src="/img/Japan.png"></th>
+  </tr>
+</table>
 <br><br>
 
 ## 3. Tryouts on Existed Designs <a name="category3"></a>
 <br>
-* Try-out: redesigning the cover for a book [The Greeks and the Irrational](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y)(1951):
+* Try-out: redesigning the cover for a book [_The Greeks and the Irrational_](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y)(1951):
 
 <img src="/img/postersGallery/Irrationallll.png" width="400">
