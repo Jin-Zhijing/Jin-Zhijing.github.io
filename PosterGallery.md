@@ -10,17 +10,17 @@ subtitle: A gallery of fantastic posters designed by JIN.
 <br><br>
 
 ## 1. For Functional Use  <a name="category1"></a>
-<br>
+---
 * 2-Sided poster for a Designer Salon Event:
 
-Front Design for the event
+Front design of the poster:
 <table style="width:100%">
   <tr>
     <th><img src="/img/人-2.png"></th>
   </tr>
 </table>
 
-Back Design for the event
+Back design of the poster:
 
 <table style="width:100%">
   <tr>
@@ -41,7 +41,7 @@ Back Design for the event
     <td><img src="/img/T-shirt(back) of Debating Society.png" width="400"></td> 
   </tr>
 </table>
-
+<br>
 
 * Membership card design for [Debating Society, H.K.U.S.U.](https://zh-hk.facebook.com/DebatingSocietyHkusu/):
 
@@ -55,7 +55,7 @@ Back Design for the event
 <br>
 
 ## 2. For Ideas <a name="category2"></a>
-<br>
+---
 * A poster reflecting Japanese culture:
 
 <table style="width:40%">
@@ -66,7 +66,7 @@ Back Design for the event
 <br><br>
 
 ## 3. Tryouts on Existed Designs <a name="category3"></a>
-<br>
+---
 * Try-out: redesigning the cover for a book [_The Greeks and the Irrational_](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y)(1951):
 
 <img src="/img/postersGallery/Irrationallll.png" width="400">
