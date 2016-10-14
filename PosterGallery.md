@@ -10,12 +10,14 @@ subtitle: A gallery of fantastic posters designed by JIN.
 <br><br>
 
 ## 1. For Functional Use  <a name="category1"></a>
+<br>
+* 2-Sided poster for a Designer Salon Event:
 
-* 2-Sided poster for a Design Salon Event:
+Front Design for the event
+![Event_DesignSalon1](/img/人-2.png) 
 
-Front Design             |  Back Design
-:-------------------------:|:-------------------------:
-![Event_DesignSalon1](/img/人-2.png) | ![Event_DesignSalon2](/img/DesignSalon.png)
+Back Design for the event
+![Event_DesignSalon2](/img/DesignSalon.png)
 <br>
 
 * T-Shirt design for a student society, [Debating Society, H.K.U.S.U.](https://zh-hk.facebook.com/DebatingSocietyHkusu/):
@@ -30,26 +32,25 @@ Front Design             |  Back Design
     <td><img src="/img/T-shirt(back) of Debating Society.png" width="400"></td> 
   </tr>
 </table>
-
 <br>
 
 * Membership card design for [Debating Society, H.K.U.S.U.](https://zh-hk.facebook.com/DebatingSocietyHkusu/):
 
 <img src="/img/Membership Card Design.png" width="400">
 
-<br><br><br><br>
+<br>
+<br>
 
 ## 2. For Ideas <a name="category2"></a>
-
+<br>
 * A poster reflecting Japanese culture:
 
 ![ProJapan](/img/Japan.png)
 
 <br><br>
-<br><br>
 
 ## 3. Tryouts on Existed Designs <a name="category3"></a>
+<br>
+* Try-out: redesigning the cover for a book [The Greeks and the Irrational](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y)(1951):
 
-* Try-out: redesigning the cover for a book [_The Greeks and the Irrational(1951)_](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y):
-
-<img src="/img/CreativeBookCoverIrrationall.png" width="300">
+<img src="/img/postersGallery/Irrationallll.png" width="400">
