@@ -1,10 +1,15 @@
 ---
 layout: page
-title: POSTERS
+title: POSTER
 subtitle: A gallery of fantastic posters designed by JIN.
 ---
+# Contents
+ * [For Functional Use](#category1)
+ * [For Ideas](#category2)
+ * [Tryouts on Existed Designs](#category3)
+<br>
 
-## 1. For Functional Use
+## 1. For Functional Use  <a name="category1"></a>
 <br>
 
 * 2-Sided poster for a Design Salon Event:
@@ -27,7 +32,7 @@ Front Design             |  Back Design
 
 <br><br><br><br>
 
-## 2. For Ideas
+## 2. For Ideas <a name="category2"></a>
 <br>
 
 * A poster reflecting Japanese culture:
@@ -37,7 +42,7 @@ Front Design             |  Back Design
 <br><br>
 <br><br>
 
-## 3. Tryouts on Existed Designs
+## 3. Tryouts on Existed Designs <a name="category3"></a>
 <br>
 
 * Try-out: redesigning the cover for a book [_The Greeks and the Irrational(1951)_](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y):
