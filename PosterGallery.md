@@ -58,11 +58,8 @@ Back design of the poster:
 ---
 * A poster reflecting Japanese culture:
 
-<table style="width:40%">
-  <tr>
-    <th><img src="/img/Japan.png"></th>
-  </tr>
-</table>
+<img src="/img/Japan.png">
+
 <br><br>
 
 ## 3. Tryouts on Existed Designs <a name="category3"></a>
