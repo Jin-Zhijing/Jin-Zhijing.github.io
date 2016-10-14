@@ -64,6 +64,11 @@ Back design of the poster:
 
 ## 3. Tryouts on Existed Designs <a name="category3"></a>
 ---
-* Try-out: redesigning the cover for a book [_The Greeks and the Irrational_](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y)(1951):
+* Try-out: redesigning the cover for a book [_The Greeks and the Irrational_](https://books.google.com.hk/books/about/The_Greeks_and_the_Irrational.html?id=Lz7LNak21AQC&redir_esc=y) (1951):
 
-<img src="/img/postersGallery/Irrationallll.png" width="400">
+<table style="width:40%">
+  <tr>
+      <tr><img src="/img/CreativeBookCoverIrrationall.png" width="400"></th>
+    </tr>
+</table>
+<br>
