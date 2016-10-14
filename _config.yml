@@ -24,6 +24,7 @@ description: Seminating ideas.
 # List of links in the navigation bar
 navbar-links:
   DESIGNS: "https://jin-zhijing.github.io"
+  POSTERS: "PosterGallery"
   POST:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
