@@ -5,10 +5,9 @@ subtitle: Travelling and living all over the world.
 ---
 > **"I believe that travelling is not just going somewhere, but LIVING somewhere as a local."**
 
-Exposure to various cultures enables me to understand, to think critically and live my own life better. Here are some places I have visited and lived so far:
+Exposure to various cultures enables me to understand, to think critically and live with more passion. Here are some places I have **visited and lived** so far:
 
 <img style="width:100%;" src="/img/Journey_2016worldMap.gif" />
-<img src="/img/Journey_2016worldMap.png">
 
 |Destination|Experience|
 |-------|------|
