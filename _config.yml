@@ -24,10 +24,10 @@ description: Seminating ideas.
 # List of links in the navigation bar
 navbar-links:
   TIMELINE: "https://jin-zhijing.github.io"
-  POSTER: "PosterGallery"
+  POSTER: "Poster"
   DESIGN:
-    - POSTER: "http://deanattali.com/beautiful-jekyll/"
-    - PHOTOGRAPHY: "http://www.markdowntutorial.com/"
+    - POSTER: "Poster"
+    - PHOTOGRAPHY: "Photography"
     - WRITING: "https://pages.github.com/"
   ABOUT: "aboutme"
 
