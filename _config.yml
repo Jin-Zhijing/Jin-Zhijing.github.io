@@ -24,7 +24,7 @@ description: Seminating ideas.
 # List of links in the navigation bar
 navbar-links:
   TIMELINE: "https://jin-zhijing.github.io"
-  POSTER: "Poster"
+  JOURNEY: "Journey"
   DESIGN:
     - POSTER: "Poster"
     - PHOTOGRAPHY: "Photography"
@@ -43,7 +43,7 @@ author:
   name: JIN
   email: "zhijing.jin@outlook.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  github: Jin-Zhijing    # eg. daattali
   twitter: yourname   # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
