@@ -1,4 +1,4 @@
-<html>
+
   <body>
     <form action="https://formspree.io/maggie0@connect.hku.hk"
       method="POST">
@@ -7,4 +7,4 @@
     <input type="submit" value="Send">
 </form>
   </body>
-</html>
+
