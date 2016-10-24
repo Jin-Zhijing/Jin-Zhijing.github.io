@@ -8,16 +8,16 @@ subtitle: Capturing the Beauty.
   <button class="prev">Previous</button>
   <div class="container">
     <div style="display: inline-block;">
-      <img src="/img/T-shirt(front) of Debating Society.png" width="400">
+      <img src="/img/PhotoGallery金丝桃.jpeg">
     </div>
     <div>
-     <img src="img/PhotoGallery/WechatIMG38.jpeg"/>
+     <img src="/img/PhotoGallery/WechatIMG38.jpeg"/>
     </div>
     <div>
-      <img src="/img/DesignSalon.png">
+      <img src="/img/PhotoGallery/蜘蛛絲上的露珠.jpeg">
     </div>
     <div>
-      <img src="img/PhotoGallery/WechatIMG39.jpeg"/>
+      <img src="/img/PhotoGallery/WechatIMG39.jpeg"/>
     </div>
   </div>
 </section>
