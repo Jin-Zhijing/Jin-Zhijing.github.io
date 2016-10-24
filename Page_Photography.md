@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photography
-subtitle: Love, Passion and Creation.
+subtitle: Capturing the Beauty.
 ---
 <section class="demo">
   <button class="next">Next</button>
