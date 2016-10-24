@@ -22,6 +22,32 @@ subtitle: Capturing the Beauty.
     <div>
       <img src="/img/PhotoGallery/WechatIMG39.jpeg"/>
     </div>
+    
+    .container {
+  max-width: 400px;
+  background-color: black;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.container div {
+  background-color: white;
+  width: 100%;
+  display: inline-block;
+  display: none;
+}
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  position: absolute;
+}
+
+.next {
+  right: 5px;
+}
   </div>
 </section>
 
