@@ -3,6 +3,8 @@ layout: page
 title: Photography
 subtitle: Capturing the Beauty.
 ---
+
+<link> href ="/testing.css" rel="stylesheet" type="text/css" />
 <section class="demo">
   <button class="next">Next</button>
   <button class="prev">Previous</button>
@@ -25,30 +27,4 @@ subtitle: Capturing the Beauty.
 <div class="explanation">
   Life is full of beauty. All you need is the eyes to spot it!
 </div>
-
-.container {
-  max-width: 400px;
-  background-color: black;
-  margin: 0 auto;
-  text-align: center;
-  position: relative;
-}
-.container div {
-  background-color: white;
-  width: 100%;
-  display: inline-block;
-  display: none;
-}
-.container img {
-  width: 100%;
-  height: auto;
-}
-
-button {
-  position: absolute;
-}
-
-.next {
-  right: 5px;
-}
 
