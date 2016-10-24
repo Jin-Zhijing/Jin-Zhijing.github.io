@@ -13,3 +13,7 @@ subtitle: Love, Passion and Creation.
     <img src="img/PhotoGallery/金丝桃.jpeg" /> 
     <img src="img/PhotoGallery/銀杏葉上的露珠.jpeg" /> 
 </div>
+
+.photos img {
+    position: absolute;
+}
