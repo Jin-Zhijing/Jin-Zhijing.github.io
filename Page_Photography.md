@@ -4,7 +4,6 @@ title: Photography
 subtitle: Capturing the Beauty.
 ---
 <html>
-<link> href ="/testing.css" rel="stylesheet" type="text/css" />
 
 <section class="demo">
   <button class="next">Next</button>
@@ -23,31 +22,34 @@ subtitle: Capturing the Beauty.
       <img src="/img/PhotoGallery/WechatIMG39.jpeg"/>
     </div>
     
-    .container {
-  max-width: 400px;
-  background-color: black;
-  margin: 0 auto;
-  text-align: center;
-  position: relative;
-}
-.container div {
-  background-color: white;
-  width: 100%;
-  display: inline-block;
-  display: none;
-}
-.container img {
-  width: 100%;
-  height: auto;
-}
+      <style type="text/css">
+        .container {
+          max-width: 400px;
+          background-color: black;
+          margin: 0 auto;
+          text-align: center;
+          position: relative;
+        }
+        .container div {
+          background-color: white;
+          width: 100%;
+          display: inline-block;
+          display: none;
+        }
+        .container img {
+          width: 100%;
+          height: auto;
+        }
 
-button {
-  position: absolute;
-}
+        button {
+          position: absolute;
+        }
 
-.next {
-  right: 5px;
-}
+        .next {
+          right: 5px;
+        }
+      </style>
+      
   </div>
 </section>
 
