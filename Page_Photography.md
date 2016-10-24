@@ -5,6 +5,9 @@ subtitle: Love, Passion and Creation.
 ---
 
 
+.photos img {
+    position: absolute;
+}
 
 <div class="photos"> 
     <img src="img/PhotoGallery/WechatIMG1.jpeg" /> 
@@ -14,6 +17,3 @@ subtitle: Love, Passion and Creation.
     <img src="img/PhotoGallery/銀杏葉上的露珠.jpeg" /> 
 </div>
 
-.photos img {
-    position: absolute;
-}
