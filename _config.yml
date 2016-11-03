@@ -23,8 +23,8 @@ description: Seminating ideas.
 
 # List of links in the navigation bar
 navbar-links:
-  TIMELINE: "https://jin-zhijing.github.io"
-  JOURNEY: "Page_Journey"
+  #POST: "https://jin-zhijing.github.io"
+  TIMELINE: "Page_Timeline"
   DESIGN:
     - POSTER: "Page_Poster"
     - PHOTOGRAPHY: "Page_Photography"
