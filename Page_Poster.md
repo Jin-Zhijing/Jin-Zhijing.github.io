@@ -60,7 +60,7 @@ Back design of the poster:
 
 <img src="/img/Japan.png">
 
-* A imaginary revelation of the brain activities of autistic children:
+* An imaginary revelation of the brain activities of AUTISTIC CHILDREN:
 
 <table style="width:50%">
   <tr>
