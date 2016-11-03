@@ -62,7 +62,11 @@ Back design of the poster:
 
 * A imaginary revelation of the brain activities of autistic children:
 
-<img src="/img/postersGallery/Autism.jpg">
+<table style="width:50%">
+  <tr>
+    <th><img src="/img/postersGallery/Autism.jpg"></th>
+  </tr>
+</table>
 
 <br><br>
 
