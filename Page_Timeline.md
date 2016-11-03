@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Timeline
-subtitle: Travelling and living all over the world.
+subtitle: A Timeline of Living Around the World.
 ---
 > **"I believe that travelling is not just going somewhere, but LIVING somewhere as a local."**
 
