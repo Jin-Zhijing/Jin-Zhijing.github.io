@@ -3,9 +3,9 @@ layout: page
 title: Timeline
 subtitle: A Timeline of Living Around the World.
 ---
-> **"I believe that travelling is not just going somewhere, but LIVING somewhere as a local."**
+> **"I believe that life is to never stop GOING, EXPERIENCING and LIVING to its full."**
 
-Exposure to various cultures enables me to understand, to think critically and live with more passion. Here are some places I have **visited and lived** so far:
+Based in Hong Kong, I, however,keep on moving to different places. Exposure to various cultures enables me to understand, to think critically and live with more passion. Here are some places I have **visited and lived** so far:
 
 <img style="width:100%;" src="/img/Journey_2016worldMap.gif" />
 
