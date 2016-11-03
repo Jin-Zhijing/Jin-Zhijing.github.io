@@ -77,10 +77,10 @@
 .photos img:nth-of-type(5) {
     left: 450px;
     top: 50px;
-    -webkit-transform: rotate(2deg);
-    -moz-transform: rotate(2deg);
-    -o-transform: rotate(2deg);
-    transform: rotate(2deg);
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+    transform: rotate(5deg);
 }
 
 .photos img:hover {
