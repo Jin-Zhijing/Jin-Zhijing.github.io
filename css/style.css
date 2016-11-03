@@ -77,25 +77,25 @@
 .photos img:nth-of-type(5) {
     left: 450px;
     top: 50px;
-    -webkit-transform: rotate(2deg);
-    -moz-transform: rotate(2deg);
-    -o-transform: rotate(2deg);
-    transform: rotate(2deg);
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+    transform: rotate(5deg);
 }
 
 .photos img:hover {
-    -webkit-transform: scale(1.5);
-    -moz-transform: scale(1.5);
-    -o-transform: scale(1.5);
-    transform: scale(1.5);
+    -webkit-transform: scale(1.7);
+    -moz-transform: scale(1.7);
+    -o-transform: scale(1.7);
+    transform: scale(1.7);
     z-index: 10;
 }
 
 .photos img:hover {
-    -webkit-transform: rotate(380deg) scale(1.5);
-    -moz-transform: rotate(380deg) scale(1.5);
-    -o-transform: rotate(380deg) scale(1.5);
-    transform: rotate(380deg) scale(1.5);
+    -webkit-transform: rotate(380deg) scale(1.7);
+    -moz-transform: rotate(380deg) scale(1.7);
+    -o-transform: rotate(380deg) scale(1.7);
+    transform: rotate(380deg) scale(1.7);
     z-index: 10;
 }
 
