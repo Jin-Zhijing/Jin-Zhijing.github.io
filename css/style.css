@@ -92,10 +92,10 @@
 }
 
 .photos img:hover {
-    -webkit-transform: rotate(380deg) scale(1.7);
-    -moz-transform: rotate(380deg) scale(1.7);
-    -o-transform: rotate(380deg) scale(1.7);
-    transform: rotate(380deg) scale(1.7);
+    -webkit-transform: rotate(0deg) scale(1.7);
+    -moz-transform: rotate(0deg) scale(1.7);
+    -o-transform: rotate(0deg) scale(1.7);
+    transform: rotate(0deg) scale(1.7);
     z-index: 10;
 }
 
