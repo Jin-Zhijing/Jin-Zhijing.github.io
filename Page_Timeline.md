@@ -5,9 +5,9 @@ subtitle: A Timeline of Journeys Around the World.
 ---
 > **"I believe that life is to never stop GOING, EXPERIENCING and LIVING to its full."**
 
-Based in Hong Kong, I, however, keep on a relentless journey all over the world.
+   Based in Hong Kong, I, however, keep on a relentless journey all over the world.
 
-Exposure to various cultures enables me to understand, to think critically and live with more passion. Here are some places I have **visited and lived** so far:
+   Exposure to various cultures enables me to understand, to think critically and live with more passion. Here are some places I have **visited and lived** so far:
 
 <img style="width:100%;" src="/img/Journey_2016worldMap.gif" />
 
@@ -21,4 +21,4 @@ Exposure to various cultures enables me to understand, to think critically and l
 |Taiwan 2017 (Upcoming)|1-Semester Exchange Study|
 
 
-In the coming years, I aspire to get connected with more and more parts around the world, and become a real talent with global vision.
+   In the coming years, I aspire to get connected with more and more parts around the world, and become a real talent with global vision.
