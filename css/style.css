@@ -84,18 +84,18 @@
 }
 
 .photos img:hover {
-    -webkit-transform: scale(1.5);
-    -moz-transform: scale(1.5);
-    -o-transform: scale(1.5);
-    transform: scale(1.5);
+    -webkit-transform: scale(1.8);
+    -moz-transform: scale(1.8);
+    -o-transform: scale(1.8);
+    transform: scale(1.8);
     z-index: 10;
 }
 
 .photos img:hover {
-    -webkit-transform: rotate(380deg) scale(1.5);
-    -moz-transform: rotate(380deg) scale(1.5);
-    -o-transform: rotate(380deg) scale(1.5);
-    transform: rotate(380deg) scale(1.5);
+    -webkit-transform: rotate(380deg) scale(1.8);
+    -moz-transform: rotate(380deg) scale(1.8);
+    -o-transform: rotate(380deg) scale(1.8);
+    transform: rotate(380deg) scale(1.8);
     z-index: 10;
 }
 
