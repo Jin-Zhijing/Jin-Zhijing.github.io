@@ -13,12 +13,11 @@ subtitle: A Timeline of Journeys Around the World.
 
 |Destination|Experience|
 |-------|------|
-|Shanghai 1997~2015| Sweet Hometown |
 |Hong Kong 2015~2019| 4-Year Undergraduate Study|
 |New York City 2016|2-Month Internship Abroad|
 |Cambodia 2016|1.5-Month International Volunteering|
 |Tokyo 2016 (Upcoming)|1.5-Month Internship Abroad|
 |Taiwan 2017 (Upcoming)|1-Semester Exchange Study|
-
+|Shanghai - | Sweet Hometown |
 
    In the coming years, I **aspire to get connected with more and more parts around the world**, and become a real talent with **GLOBAL VISION**.
