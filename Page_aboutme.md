@@ -24,6 +24,8 @@ I am a passionate creative with **a great love of life**. I believe in the power
 
 ### To Know More
 
+Please find my CV [here](/img/Portfolio/CV:Resume_JIN Zhijing.pdf).
+
 I'm now an undergraduate in the University of Hong Kong. 
 
 Upon my graduation in 2019, I aspire a career full of challenges.
