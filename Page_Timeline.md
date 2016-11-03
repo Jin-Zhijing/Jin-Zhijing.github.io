@@ -21,4 +21,4 @@ subtitle: A Timeline of Journeys Around the World.
 |Taiwan 2017 (Upcoming)|1-Semester Exchange Study|
 
 
-   In the coming years, I aspire to get connected with more and more parts around the world, and become a real talent with global vision.
+   In the coming years, I **aspire to get connected with more and more parts around the world**, and become a real talent with **GLOBAL VISION**.
