@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: A GREAT OUTLINE
 tags: [dream, exciting-stuff]
 ---
 
