@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journey
+title: Timeline
 subtitle: Travelling and living all over the world.
 ---
 > **"I believe that travelling is not just going somewhere, but LIVING somewhere as a local."**
