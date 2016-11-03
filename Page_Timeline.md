@@ -1,16 +1,19 @@
 ---
 layout: page
 title: Timeline
-subtitle: A Timeline of Living Around the World.
+subtitle: A Timeline of Journeys Around the World.
 ---
 > **"I believe that life is to never stop GOING, EXPERIENCING and LIVING to its full."**
 
-Based in Hong Kong, I, however,keep on moving to different places. Exposure to various cultures enables me to understand, to think critically and live with more passion. Here are some places I have **visited and lived** so far:
+Based in Hong Kong, I, however, keep on a relentless journey all over the world.
+
+Exposure to various cultures enables me to understand, to think critically and live with more passion. Here are some places I have **visited and lived** so far:
 
 <img style="width:100%;" src="/img/Journey_2016worldMap.gif" />
 
 |Destination|Experience|
 |-------|------|
+|Shanghai 1997~2015| Sweet Hometown |
 |Hong Kong 2015~2019| 4-Year Undergraduate Study|
 |New York City 2016|2-Month Internship Abroad|
 |Cambodia 2016|1.5-Month International Volunteering|
