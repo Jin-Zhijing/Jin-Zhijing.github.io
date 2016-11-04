@@ -4,6 +4,8 @@ title: Extensive Reading
 ---
 2016-11-02  
 BOOK_中國的人物畫和山水畫ChinesePortraitPaintingAndLandscapePainting_(民國)傅抱石_70Pages_ChinesePainting
+BOOK_元黃公望寫山水訣_元黃公望_3Pages_ChinesePainting [🀢](http://dwshy.suda.edu.cn/xianxianlilun/yuandaishuhualun/黄公望.htm#_edn19)
+
 
 2016-11-01  
 BOOK_AShortGuideToWritingAboutArt_SylvanBarnet_366Pages_EnglishWriting [🀢](https://macaulay.cuny.edu/eportfolios/2011klich902/files/2011/09/Barnet.pdf)
