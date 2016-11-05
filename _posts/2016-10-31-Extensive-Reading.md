@@ -2,6 +2,11 @@
 layout: post
 title: Extensive Reading
 ---
+
+2016-11-05  
+VIDEO_BauHaus_FengHuangTV_1Episode_Design [🀢](https://www.youtube.com/watch?v=rp_dVtmIHiY)
+藝術學校是一座自給自足的大工廠，陶瓷教室，木工教室，鋼鐵教室，設計 造型 繪畫 製作 五金 木匠 美術 編織，教室是一系列工作室
+
 2016-11-02  
 BOOK_中國的人物畫和山水畫ChinesePortraitPaintingAndLandscapePainting_(民國)傅抱石_70Pages_ChinesePainting
 BOOK_元黃公望寫山水訣_元黃公望_3Pages_ChinesePainting [🀢](http://dwshy.suda.edu.cn/xianxianlilun/yuandaishuhualun/黄公望.htm#_edn19)
