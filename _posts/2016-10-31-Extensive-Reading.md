@@ -2,6 +2,20 @@
 layout: post
 title: Extensive Reading
 ---
+2016-11-07
+BOOK_郭熙史料HistoricalRecordsOfGuoXi_溫肇桐_76Pages_ChinesePainterProfile [🀢](http://www.geocities.jp/qsshc/guqingb/cpaint/cpaintlin1.html)
+```
+《林泉高致山水訓》山得水而活，得草木而華，得煙雲而秀媚。煙霞鎖其腰。水，活物也。其形欲深静，欲柔滑，欲汪洋，欲回環，欲肥膩，欲噴薄，欲激射，欲多泉，欲遠流，欲瀑布插天，欲濺撲入地，欲漁釣怡怡，欲草木欣欣，欲挟烟雲而秀媚，欲照溪谷而光輝，此水之活体也。
+```
+
+VIDEO_MountYellow_
+
+
+BOOK_庸齋談藝錄OutlineOfArtByStudioYung_容天圻_200Pages_ChineseArtNouns  
+BOOK_黃公望史料HistoricalRecordsOfHuangGongwang_溫肇桐_76Pages_ChinesePainterProfile  
+```
+所至三教之人，雜然問難，翁論辯其間，風神疏逸，口若懸河。| 董源、巨然、趙孟頫。|神童科，五十牢獄之災，全真教，松江賣卜。|嚴光、范仲淹“先生之風，山高水長”。
+```
 
 2016-11-05  
 VIDEO_BauHaus_FengHuangTV_1Episode_Design [🀢](https://www.youtube.com/watch?v=rp_dVtmIHiY)
