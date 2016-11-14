@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Writing
-subtitle: Words Complimenting Every Blissful Moment Hidden in Mundane Life.
+subtitle: Revealing Every Blissful Moment Hidden in Mundane Life.
 ---
 
 ## Dwelling in the Fuchun Mountains: Underlying philosophy between human and nature
