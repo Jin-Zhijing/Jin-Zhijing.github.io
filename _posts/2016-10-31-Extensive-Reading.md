@@ -2,6 +2,21 @@
 layout: post
 title: Extensive Reading
 ---
+
+2016-12-02
+BOOK_呂思勉詩文叢稿PoemsAndEssaysByLuSimian_呂思勉_418Pages_History
+```
+漢儒治經，曰以致用，《禹貢》治河，《洪範》察變，《春秋》折獄，《詩》三百篇當諫書而已。君相得其用，天下披其澤。求之空間，故實而有用；求之紙上，故虛而無用。
+```
+2016-12-01
+VIDEO_桃姐ASimpleLife_真人真事_2+hours_AgingLife
+```
+生命機能慢慢退去，但卻是rite of passage。恰逢David Clarke藝術學教授退休，又想起了dead poet society裡面一張張年輕的面龐。
+```
+2016-11-30
+中國中學歷史整理1980_40+Pages_HistoryInContemporaryChina
+```老子是“沒落的奴隸主階級”的思想，莊子更是。
+```
 2016-11-07
 BOOK_郭熙史料HistoricalRecordsOfGuoXi_溫肇桐_76Pages_ChinesePainterProfile [🀢](http://www.geocities.jp/qsshc/guqingb/cpaint/cpaintlin1.html)
 ```
