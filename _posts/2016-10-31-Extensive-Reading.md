@@ -2,7 +2,27 @@
 layout: post
 title: Extensive Reading
 ---
+2016-12-10
+BOOK_BaDaShanRen
 
+BOOK_清初四畫僧精品集_BaDaShanRen&WuCan_57Pages_ChinesePainting&Zen
+ 
+
+2016-12-09
+BOOK_XuBing:BookFromTheSky_asFollows_ModernArt
+Britta, Erickson. Words Without Meaning, Meaning Without Words: The Art of Xu Bing (Washington, D.C., and Seattle: Sackler Museum and University of Washington Press, 2001).
+ Chia Chi Jason, Wang. Xu Bing, a Retrospective (Taipei: Taipei Fine Arts Museum, 2014).
+David, Clarke. Chinese Art and Its Encounter with the World (Hong Kong: Hong Kong University Press, 2011).
+Hung, Wu. New Chinese Art: Inside Out ( Chicago: University of Chicago Press and the David and Alfred Smart Museum of Art, 1999).
+John, Cayley. "Writing (Under-) Sky: On Xu Bing's Tianshu." In A Book of the Book: Some Works and Projections about the Book and Writing, ed. Jerome Rothenberg and Stephen Clay (New York: Granary Books, 2000).
+Julia, Andrews; Kuiyi, Shen. The Art of Modern China (Berkeley and Los Angeles: University of California Press, 2012). 
+Karen, Smith. Nine Lives: the Birth of Avant-Garde Art in New China (Zurich: Scalo Verlag Ag, 2014).
+ Minglu, Gao. "Anti-Writing," Transience, Chinese Experimental Art at the End of the Twentieth Century (San Francisco: San Francisco Museum of Modern Art and Asia Society Galleries, 1998).
+Yeeman, Koon. It Begins with Metamorphasis: Xu Bing (Hong Kong: Art Society Hong Kong Center, 2014).
+```
+ChineseArt 1842 1890 1920 1930 1937 1949 1966-76 1989 2000+
+Xu Bing, Gu Wenda
+```
 2016-12-02
 BOOK_呂思勉詩文叢稿PoemsAndEssaysByLuSimian_呂思勉_418Pages_History
 ```
