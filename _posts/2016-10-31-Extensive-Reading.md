@@ -6,6 +6,9 @@ title: Extensive Reading
 BOOK_BaDaShanRen
 
 BOOK_清初四畫僧精品集_BaDaShanRen&WuCan_57Pages_ChinesePainting&Zen
+```以神取形，以意舍形，空蕩無邊，魚鳥空明；氣勢-》構圖-》筆墨-》空靈，圓潤，凝重；數年不對人作一語，意其得于靜悟者之深。禪宗，一切般若智，皆從自性而生。體認。微觀：極靜vs奔騰
+《松柏同春圖》撫孤松而盤桓《魚鴨圖卷》即心即佛
+```
  
 
 2016-12-09
