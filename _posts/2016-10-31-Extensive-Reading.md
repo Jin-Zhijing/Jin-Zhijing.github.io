@@ -2,6 +2,9 @@
 layout: post
 title: Extensive Reading
 ---
+2016-12-15
+BOOK_經典常談BriefingTheClassics_ZhuZiQing_129PAges_ChineseBooks
+BOOK_鄧石如篆_鄧石如_Pages87_Calligraphy
 2016-12-10
 BOOK_BaDaShanRenBOOK——ChinsePaintings-XI~XIV_60Pages
 BOOK_清初四畫僧精品集_BaDaShanRen&WuCan_57Pages_ChinesePainting&Zen
