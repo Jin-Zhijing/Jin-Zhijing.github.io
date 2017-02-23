@@ -2,6 +2,13 @@
 layout: post
 title: Extensive Reading
 ---
+2017-02-23
+TheCrycenthememAndTheSword
+```
+===人治與法制？===
+我覺得是恥感文化instead of罪感文化
+
+```
 2017-02-18
 BOOK_大學
 
