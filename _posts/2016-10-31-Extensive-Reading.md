@@ -6,9 +6,8 @@ title: Extensive Reading
 TheCrycenthememAndTheSword
 ```
 ===人治與法制？===
-我覺得是恥感文化instead of罪感文化
-
-```
+我覺得是恥感文化instead of罪感文化，其強制力在於人的內心而不在於外部社會。
+`
 2017-02-18
 BOOK_大學
 
