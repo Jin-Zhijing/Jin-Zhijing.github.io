@@ -11,6 +11,8 @@ title: Extensive Reading
 
 ”见素抱朴，少私寡欲”。亦即减少个人的欲望，持守心灵的单纯。
 罗素在”西方哲学史”一书，对史宾诺莎特别致意，称赞他”生活简朴，思想高贵”( Simple living, noble thinking )。
+
+哈哈，“一切哲學都是柏拉圖哲學的註解”。
 ```
 2li017-02-23
 TheCrycenthememAndTheSword
