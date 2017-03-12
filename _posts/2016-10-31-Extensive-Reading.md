@@ -2,7 +2,17 @@
 layout: post
 title: Extensive Reading
 ---
-2017-02-23
+2017-03-10
+
+美學四講——李澤厚
+```
+不要笑, 不要哭, 不要恨, 要理解。
+荷兰籍的犹太人史宾诺莎 ( Spinoza)
+
+”见素抱朴，少私寡欲”。亦即减少个人的欲望，持守心灵的单纯。
+罗素在”西方哲学史”一书，对史宾诺莎特别致意，称赞他”生活简朴，思想高贵”( Simple living, noble thinking )。
+```
+2li017-02-23
 TheCrycenthememAndTheSword
 ```
 ===人治與法制？===
