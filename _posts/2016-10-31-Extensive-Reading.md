@@ -2,7 +2,14 @@
 layout: post
 title: Extensive Reading
 ---
+2017-03-23
+
+BOOK_簡單具象的「美」 [🀢](http://www.nacs.gov.tw/05_lifelong/award/100/10018.pdf)
+
+
+2017-03-15
 一個人內心沒有了「憂」、「惑」、「懼」自然就減少了對外界的抱怨和指責，心裏充滿了祥和愉悅。
+
 2017-03-10
 
 美學四講——李澤厚
@@ -22,7 +29,7 @@ TheCrycenthememAndTheSword
 我覺得是恥感文化instead of罪感文化，其強制力在於人的內心而不在於外部社會。
 ===雙重性格===
 來自成人教育與幼兒教育的不連續性
-`
+```
 2017-02-18
 BOOK_大學
 
