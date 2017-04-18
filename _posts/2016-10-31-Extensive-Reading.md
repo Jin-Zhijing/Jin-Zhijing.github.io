@@ -4,7 +4,10 @@ title: Extensive Reading
 ---
 
 2017-04-18
+
 BOOK_唐詩隨感_千江有水千江月 [🀢](https://books.google.com.tw/books?id=Y6QtCgAAQBAJ&pg=PT87&lpg=PT87&dq=悲歡離合總關情+下句&source=bl&ots=gFgVNMshIf&sig=ycYQEpZSp0XaJ22YxJqB73_pdbM&hl=en&sa=X&ved=0ahUKEwj6idyf0KvTAhXEJZQKHfnfAB0Q6AEIRDAF#v=onepage&q=悲歡離合總關情%20下句&f=false)
+
+WEB_送別詩 [🀢](http://www.newsancai.com/b5/literature/130-poem/60544-.html)[🀢李白](https://kknews.cc/culture/ya4orlg.html)[🀢](https://kknews.cc/culture/k8b42qr.html)[🀢](http://blog.sina.com.cn/s/blog_92540a7101011bkh.html)
 
 2017-03-23
 
