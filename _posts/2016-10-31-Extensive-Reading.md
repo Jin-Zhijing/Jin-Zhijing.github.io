@@ -9,6 +9,9 @@ BOOK_唐詩隨感_千江有水千江月 [🀢](https://books.google.com.tw/books
 
 WEB_送別詩 [🀢](http://www.newsancai.com/b5/literature/130-poem/60544-.html)[🀢李白](https://kknews.cc/culture/ya4orlg.html)[🀢](https://kknews.cc/culture/k8b42qr.html)[🀢](http://blog.sina.com.cn/s/blog_92540a7101011bkh.html)
 
+2017-04-15
+BOOK_洛克菲勒傳[🀢](http://bjzc.org/lib/58/shkx/ts058009.pdf)
+
 2017-03-23
 
 BOOK_簡單具象的「美」 [🀢](http://www.nacs.gov.tw/05_lifelong/award/100/10018.pdf)
