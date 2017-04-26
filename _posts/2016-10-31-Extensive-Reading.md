@@ -3,6 +3,9 @@ layout: post
 title: Extensive Reading
 ---
 
+2017-04-25
+ESSAY_Why Do Most Vegetarians Go Back To Eating Meat?_Harold Herzog [🀢](https://works.bepress.com/harold-herzog/)
+
 2017-04-18
 
 BOOK_唐詩隨感_千江有水千江月 [🀢](https://books.google.com.tw/books?id=Y6QtCgAAQBAJ&pg=PT87&lpg=PT87&dq=悲歡離合總關情+下句&source=bl&ots=gFgVNMshIf&sig=ycYQEpZSp0XaJ22YxJqB73_pdbM&hl=en&sa=X&ved=0ahUKEwj6idyf0KvTAhXEJZQKHfnfAB0Q6AEIRDAF#v=onepage&q=悲歡離合總關情%20下句&f=false)
