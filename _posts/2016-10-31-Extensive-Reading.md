@@ -2,6 +2,11 @@
 layout: post
 title: Extensive Reading
 ---
+2017-04-30
+BOOK_日本史TheHistoryOfJapan_李永熾_History
+```
+The Edo period saw the combination of Confusciousism and Hollandism, with many literature, commerce and trends emerging.
+```
 
 2017-04-25
 ESSAY_Why Do Most Vegetarians Go Back To Eating Meat?_Harold Herzog [🀢](https://works.bepress.com/harold-herzog/)
