@@ -2,6 +2,13 @@
 layout: post
 title: Extensive Reading
 ---
+
+2017-05-23
+BOOK_人往低處走《老子》天下第一_李零_Daoism
+```
+無名萬物之始，有名萬物之母。和光同塵。故有之以為利，無之以為用。五色使人目盲。樸散則為器。
+```
+
 2017-04-30
 BOOK_日本史TheHistoryOfJapan_李永熾_History
 ```
