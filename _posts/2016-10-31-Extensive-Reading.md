@@ -2,8 +2,19 @@
 layout: post
 title: Extensive Reading
 ---
+2017-05-30
+
+VIDEO_百家講壇之品李白_康震_ChineseCulture
+
+BOOK_盛唐驕子：李白傳_葛景春_ChineseCulture
+```
+通俗易懂，文史結合
+```
+
+BOOK_李白：詩酒與人生_徐文海_ChineseCulture
 
 2017-05-23
+
 BOOK_人往低處走《老子》天下第一_李零_Daoism
 ```
 無名萬物之始，有名萬物之母。和光同塵。故有之以為利，無之以為用。五色使人目盲。樸散則為器。
