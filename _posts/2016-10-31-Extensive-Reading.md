@@ -2,6 +2,13 @@
 layout: post
 title: Extensive Reading
 ---
+
+2017-07-08
+
+REFERENCE_UnderstandingClouds_Meteorology  [🀢](https://www.nasa.gov/pdf/135641main_clouds_trifold21.pdf)
+
+BOOK_TheCloudSpotter'sGuide_Pinney_Meteorology
+
 2017-06-07
 
 BOOK_我為你灑下月光_簡媜_Literature
