@@ -4,9 +4,10 @@ title: Extensive Reading
 ---
 
 2017-09-16
-
+[best chapter](https://zh.wikisource.org/wiki/浮生六記/卷二_閑情記趣)
 [excerpt](http://blog.roodo.com/non2005/archives/2429519.html)
 閨房之趣：
+
 正巧宿舍很多人帶男女朋友歸宿，甚是開放；回看古人書中所寫，才覺含蓄之美：
 
 “芸回眸微笑。便覺一縷情絲搖人魂魄，擁之入帳，不知東方之既白。”
