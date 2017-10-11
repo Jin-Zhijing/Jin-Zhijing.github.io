@@ -3,7 +3,13 @@ layout: post
 title: Extensive Reading
 ---
 
+2017-10-11
+
+[BOOK]ChineseGardens_LouQingxi_2011_ChineseArchitecture
+
+
 2017-09-16
+
 [best chapter](https://zh.wikisource.org/wiki/浮生六記/卷二_閑情記趣)
 [excerpt](http://blog.roodo.com/non2005/archives/2429519.html)
 閨房之趣：
@@ -16,6 +22,8 @@ title: Extensive Reading
 
 理想生活：「他年當與君卜築於此，買繞屋菜園十畝，課僕嫗，植瓜蔬，以供薪水。君畫我繡，以為诗酒之需。布衣菜飯，可樂終身，不必作遠遊計也。」
 林語堂：「我想這對伉儷的生活是最悲慘而同時是最活潑快樂的生活─那種善處憂患的活潑快樂。只是欣賞宇宙的良辰美景，山林泉石，同幾位知心友人過他恬淡自適的生活─蹭蹬不遂，而仍不改其樂。」
+
+
 2017-09-05
 
 TheSpellOfTheSenuous_DavidAbram_1997_ChinesePainting
