@@ -3,6 +3,16 @@ layout: post
 title: Extensive Reading
 ---
 
+2017-12-03
+
+BOOK_Stripes:DesignBetweenTheLines_LindaDKeeffe_Design
+
+```
+Striped churches across Europe, and striped mosques in North Africa. Eg. Church of Saint Giovanni Battista in Ticino, Italy.
+```
+
+BOOK_OpticalAndGeometricalPatternsAndDesigns_SpyrosHoremis_Design
+
 2017-10-11
 
 [BOOK]ChineseGardens_LouQingxi_2011_ChineseArchitecture
