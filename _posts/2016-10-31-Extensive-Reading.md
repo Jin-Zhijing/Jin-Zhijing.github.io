@@ -2,6 +2,14 @@
 layout: post
 title: Extensive Reading
 ---
+2017-01-09
+
+BOOK_荒山之恋_王安忆_Novel
+
+```
+恋母情节的男人，红毛线的殉情。
+```
+
 
 2017-12-31
 
