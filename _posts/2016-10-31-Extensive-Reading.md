@@ -3,6 +3,14 @@ layout: post
 title: Extensive Reading
 ---
 
+2017-12-31
+
+BOOK_二十年目睹之怪现状_Novel
+
+```
+满人吃葱油饼，骗子骗银庄的钱。
+```
+
 2017-12-03
 
 BOOK_Stripes:DesignBetweenTheLines_LindaDKeeffe_Design
