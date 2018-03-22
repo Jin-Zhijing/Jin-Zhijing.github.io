@@ -2,7 +2,14 @@
 layout: post
 title: Extensive Reading
 ---
-2017-01-09
+
+2018-03-22
+BOOK_"Trees, maps, and theorems"_"Jean-luc Doumont"_2009_CommunicationSkills
+```
+Signal-Noise Ratio: You delete everything that is not useful, thus minimizing the noise that you deliberately put in, for example condensing your graph. Then focus on what audience can capture, then design the number of points, the hierachy structure.
+```
+
+2018-01-09
 
 BOOK_荒山之恋_王安忆_Novel
 
