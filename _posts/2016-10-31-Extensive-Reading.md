@@ -3,7 +3,38 @@ layout: post
 title: Extensive Reading
 ---
 
+2018-08-13
+
+MOVIE_EternalSunshineOfTheSpotlessMind_JimCarrey_2004_SciFi
+```
+(1)改片真实地描写平凡人的Relationship。
+Joel和Clementine的爱是很不稳定的，因为一个胆小、一个脾气暴躁，好的时候他们很要好，坏的时候很不懂沟通，一拍即散。"Constant talking isn't necessarily communicating." 医生和Mary的affair也很正常，老的男人都会有七年之痒。Stan懦弱地爱着Mary。
+
+值得思考的是，人为什么会吵架。Joel在怀疑Clementine回家晚的时候，认为她和其他人发生了关系，互相之间就说了很多爆裂的话，越说越严重。很奇怪。不说就好了，rational thinking会让你连第一句怀疑都不具有。
+
+令我resonate的是，Joel喜欢Clementine的原因。他认为Clementine像是一个burning meteor，因为Clementine敢于做很多他不敢的事情。她带他到没人的别墅里偷酒，她带他走在frozen Charles River上大胆地躺在上面说"Moneymoon night? Walk on ice?"，她大胆地做性爱，她把头发染成Blue Ruin和tangerine，她直接说Can I borrow a piece of that chicken?然后就拿了。而Joel的形象也很真实，混乱的apartment和平凡的生活，If you look at my journal. It's just blank. I had the best fucking life of my fucking life.
+Her personality makes your life out of mundane， like a burning metoer. it seduces you.(7:16）
+
+(2) It is a Sci-Fi on erasing memory. 自己和发生的一切，有一种模糊的透过玻璃的距离感。Some paranoid scene in Joel's mind."Patrick." His memory is getting manipulated because weird things happens, like car falling from the sky. The bookshelf disappeared one row by one row. The villa collapsed bit by bit.
+
+The tricky contradiction of human nature versus technology is that although people's memories are erased like Joel, Clementine and Mary. They still fall in the same habit and repeat the mistake. The receptionist once said to a patient, "You cannot make 3 appointments in a month." It is the mental habits that should be rationally changed. 
+
+There is hope in people changing themselves, like in the last song, "Change your heart, look around you. Change your heart and it will astound you."
+
+(3) Joel reveals that the deepest memory is humiliation. He loves bathing in the sink. He has never felt anything more secure.He masturbated when his mom came in, he was forced to hammer on a bird, he sensed disdain when Clementine said "So go". He was so scared. 黑暗中的灯光加强了电影的渲染力。
+```
+
+2018-08-13
+
+BOOK_居里夫人自传_MadamCurie_2003_Autobiography [🀢](ftp://52jyw.com/%B5%E7%D7%D3%CD%BC%CA%E9/035/K/A2032334.pdf)
+```
+The firm relationship between Marie Curie and Pierre Curie moves me. It is the merging of two lives who are both determined to devote themselves to science. 
+
+Marie Curies's strongest part is her determination. I can also learn from their methods in scientific research.
+```
+
 2018-03-22
+
 BOOK_"Trees, maps, and theorems"_"Jean-luc Doumont"_2009_CommunicationSkills
 ```
 Signal-Noise Ratio: You delete everything that is not useful, thus minimizing the noise that you deliberately put in, for example condensing your graph. Then focus on what audience can capture, then design the number of points, the hierachy structure.
