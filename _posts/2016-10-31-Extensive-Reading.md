@@ -3,6 +3,53 @@ layout: post
 title: Extensive Reading
 ---
 
+2018-08-20
+
+MOVIE_Up_Disney_2009_Story
+
+```
+# Real Adventure
+
+The theme of Up (2009) is "the Spirit of Adventure". It was first introduced on the airplane of the great adventurer that both Ellie and Carl admired. 
+
+Then Ellie's little book of Adventure is another clue. On this book of Adventure, Ellie first puts in her childhood idol and world maps. As time goes by, she enriches it with the photos of their marriage. They love handcraft, counting clouds, having picnics and reading books. They hold each other's hands while reading.
+
+After Ellie passed away, Carl has his life totally changed in the journey to Paradise Falls. He brings his house all the way with him. But the heavy and bulky house has become something he must abandon in order to rescue the mythical animal Snipe. He was once much attached to their old house, then he made a determined decision to abandon it. He created a new trace of adventure with the kid Russell. In sharp contrast with many old people who get their houses relocated and live in retirement housem his life is revived.
+
+The spirit of adventure is to understand what you really need and surmount the courage to go for a change (Chinese: 穷则变，变则通). Just as Ellie wrote in their Adventure Book: 
+
+"Thank you for the adventure. Now go have a new one -- Ellie."
+
+# Couple Love
+
+In the movie, the kid points out a fact, "what you truly remember is all these little boring things in life." The movie shows the long-term love between Ellie and Carl by Ellie's helping Carl to tie a tie every day.
+
+Ellie is a sweet, outgoing wife. She jumped into Carl's house and showed her adventure book. When she jumped out of the window and left, she said, "You know, you don't talk much." She popped her head above the window frame, "I like you :)".
+
+(Up: Couple Scene 7:00~10:40, 1:12:30)
+
+Their love scene of counting clouds, maintaining the house, and Sunday book reading is really moving to me. Time goes by in harmony and company.
+
+It reminds me of the couple love in Good Will Hunting, where the psychologist mentioned his loyal love to his wife.
+
+"You cant tell me what it feels like to wake up next to a woman feel truly happy.
+
+You've never looked at a woman and been totally vulnerable, known someone that could level you with her eyes, feeling like God put an angel on earth just for you. 
+
+You wouldn't know what it's like to be her angel to have that love for her be there forever, through anything, through cancer.
+
+All you remember is these beautiful little stuff. These are good stuff. We get to choose who we let into our weird little worlds."
+
+# What is a good Disney story?
+
+When I was a kid, I just followed the story plot, going through all the ups and downs. But after watching so many movies, I summarize a good story as follows.
+
+There is a tough target to achieve. The main characters go through one obstacle after another to achieve the target. The more near-misses there is, the more encaptivating the story is. There should be a period of naive happiness before the thunderstorm comes. 
+
+There can be an appropriate amount of simplification. In Up, a house can be lifted up by balloons, two old man can climb and fight, the fire on a wooden house can be put off by a coat, the old man can tie a house on his back and walk through the forest. They are things that kids think make sense :).
+
+```
+
 2018-08-18
 
 BOOK_Brothers_YuHua_2005_Society
